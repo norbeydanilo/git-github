@@ -14,7 +14,7 @@
 
 ### :pencil: Exercises 01 - Oriented practical guides
 
-:computer: [Exercises](https://github.com/norbeydanilo/git-github/tree/main/exercices).
+:computer: [Exercises](https://github.com/norbeydanilo/git-github/tree/main/exercises).
 
 ### :pencil: Exercises 02 - Learngit platform
 
