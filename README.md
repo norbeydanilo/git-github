@@ -10,13 +10,13 @@
 
 :paperclip: Each topic has a presentation to review. Please see the presentations in the repository.
 
-## Exercices :notebook:
+## Exercises :notebook:
 
-### :pencil: Exercices 01 - Oriented practical guides
+### :pencil: Exercises 01 - Oriented practical guides
 
-:computer: [Exercices](https://github.com/norbeydanilo/git-github/tree/main/exercices).
+:computer: [Exercises](https://github.com/norbeydanilo/git-github/tree/main/exercices).
 
-### :pencil: Exercices 02 - Learngit platform
+### :pencil: Exercises 02 - Learngit platform
 
 :link: [Do the tutorials and levels to learn git](https://learngitbranching.js.org/?locale=es_AR)
 
