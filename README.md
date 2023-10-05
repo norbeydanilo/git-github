@@ -12,11 +12,17 @@
 
 ## Exercices :notebook:
 
-This unit does not include exercises.
+### :pencil: Exercices 01 - Oriented practical guides
+
+:computer: [Exercices](https://github.com/norbeydanilo/git-github/tree/main/exercices).
+
+### :pencil: Exercices 02 - Learngit platform
+
+:link: [Do the tutorials and levels to learn git](https://learngitbranching.js.org/?locale=es_AR)
 
 ## Interesting links :heavy_check_mark:
 
-- :link: [books-lectures](https://github.com/norbeydanilo/arquitectura-software-web/tree/main/books-lectures) See the folder in the repository to find some books and lectures of interest.
+- :link: [books-lectures](https://github.com/norbeydanilo/git-github/tree/main/books-lectures) See the folder in the repository to find some books and lectures of interest.
 - :link: [gitflow-tutorial](https://github.com/cjadeveloper/gitflow-tutorial)
 - :link: [flujo de trabajo de gitflow - Atlassian](https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow)
 - :link: [GitFlow en Github](https://www.youtube.com/watch?v=LkYWop93S70)
