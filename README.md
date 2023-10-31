@@ -14,7 +14,18 @@
 
 ### :pencil: Exercises 01 - Oriented practical guides
 
-:computer: [Exercises](https://github.com/norbeydanilo/git-github/tree/main/exercises).
+:computer: [Exercises](https://github.com/norbeydanilo/git-github/tree/main/exercises). This folder contains the exercises to practice Git and GitHub. 
+
+- Para la creación de una cuenta en GitHub puedes ir directamente a la documentación oficial en [GitHub](https://docs.github.com/es/get-started/quickstart).
+- Para la creación de una cuenta en GitLab puedes ir directamente a la documentación oficial en [GitLab](https://docs.gitlab.com/ee/user/project/quick_start/).
+- Para el uso de Git puedes ir directamente a la documentación oficial en [Git](https://git-scm.com/book/es/v2).
+- Para la instalación de Git Bash puedes ir directamente a la documentación oficial en [Git Bash](https://git-scm.com/book/es/v2).
+- Para el uso de Github Desktop puedes ir directamente a la documentación oficial en [GitHub Desktop](https://desktop.github.com/).
+- Para el uso de GitHub Pages puedes ir directamente a la documentación oficial en [GitHub Pages](https://pages.github.com/).
+- Para aprender a usar GitFlow puedes ir directamente a la documentación oficial en [GitFlow](https://danielkummer.github.io/git-flow-cheatsheet/index.es_ES.html).
+- Para aprender sobre la terminal y línea de comandos de Linux puedes ir directamente a la documentación oficial en [Linux](https://linuxhint.com/).
+- Para aprender sobre la terminal y línea de comandos de Windows puedes ir directamente a la documentación oficial en [Windows](https://www.windows-commandline.com/).
+- Para aprender sobre la terminal y línea de comandos de Mac puedes ir directamente a la documentación oficial en [Mac](https://support.apple.com/es-es/HT201236).
 
 ### :pencil: Exercises 02 - Learngit platform
 
